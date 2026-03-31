@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/api/judge",
+      "dest": "/api/judge.js",
+      "methods": ["POST", "OPTIONS"]
+    }
+  ]
+}
