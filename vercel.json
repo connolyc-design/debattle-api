@@ -5,6 +5,11 @@
       "src": "/api/judge",
       "dest": "/api/judge.js",
       "methods": ["POST", "OPTIONS"]
+    },
+    {
+      "src": "/api/transcribe",
+      "dest": "/api/transcribe.js",
+      "methods": ["POST", "OPTIONS"]
     }
   ]
 }
